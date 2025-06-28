@@ -23,7 +23,6 @@ I am a VLM and LLM researcher, a senior algorithm engineer at Alibaba Tongyi Lab
 
 # 📝 Selected Publications
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/Qwen2.5-VL-framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -56,7 +55,7 @@ Shuai Bai, Keqin Chen, Xuejing Liu, Jialin Wang, Wenbin Ge, Sibo Song, Kai Dang,
 
 <span style="color:PaleVioletRed;">Yuanzhi Zhu</span>, Zhaohai Li, Tianwei Wang, Mengchao He, Cong Yao.
 
-[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Conditional_Text_Image_Generation_With_Diffusion_Models_CVPR_2023_paper.pdf) [Code]() [Slides]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Conditional_Text_Image_Generation_With_Diffusion_Models_CVPR_2023_paper.pdf) [Slides]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - TD.
 </div>
 </div>
@@ -64,13 +63,13 @@ Shuai Bai, Keqin Chen, Xuejing Liu, Jialin Wang, Wenbin Ge, Sibo Song, Kai Dang,
 
 # More Papers
 
-[//] (- Qwen2. 5-vl technical report. 2025. [[pdf]](https://arxiv.org/abs/2502.13923) Shuai Bai, Keqin Chen, Xuejing Liu, Jialin Wang, Wenbin Ge, Sibo Song, Kai Dang, Peng Wang, Shijie Wang, Jun Tang, Humen Zhong, <span style="color:PaleVioletRed;">Yuanzhi Zhu</span>, Mingkun Yang, Zhaohai Li, Jianqiang Wan, Pengfei Wang, Wei Ding, Zheren Fu, Yiheng Xu, Jiabo Ye, Xi Zhang, Tianbao Xie, Zesen Cheng, Hang Zhang, Zhibo Yang, Haiyang Xu, Junyang Lin.)
-[//] (- Visual text generation in the wild. ECCV 2024. [[pdf]](https://arxiv.org/abs/2501.02962) <span style="color:PaleVioletRed;">Yuanzhi Zhu</span>, Jiawei Liu, Feiyu Gao, Wenyu Liu, Xinggang Wang, Peng Wang, Fei Huang, Cong Yao, Zhibo Yang.)
-[//] (- Conditional text image generation with diffusion models. CVPR 2023 [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Conditional_Text_Image_Generation_With_Diffusion_Models_CVPR_2023_paper.pdf) <span style="color:PaleVioletRed;">Yuanzhi Zhu</span>, Zhaohai Li, Tianwei Wang, Mengchao He, Cong Yao.)
+[//]: # (- Qwen2. 5-vl technical report. 2025. [[pdf]](https://arxiv.org/abs/2502.13923) Shuai Bai, Keqin Chen, Xuejing Liu, Jialin Wang, Wenbin Ge, Sibo Song, Kai Dang, Peng Wang, Shijie Wang, Jun Tang, Humen Zhong, <span style="color:PaleVioletRed;">Yuanzhi Zhu</span>, Mingkun Yang, Zhaohai Li, Jianqiang Wan, Pengfei Wang, Wei Ding, Zheren Fu, Yiheng Xu, Jiabo Ye, Xi Zhang, Tianbao Xie, Zesen Cheng, Hang Zhang, Zhibo Yang, Haiyang Xu, Junyang Lin.)
+[//]: # (- Visual text generation in the wild. ECCV 2024. [[pdf]](https://arxiv.org/abs/2501.02962) <span style="color:PaleVioletRed;">Yuanzhi Zhu</span>, Jiawei Liu, Feiyu Gao, Wenyu Liu, Xinggang Wang, Peng Wang, Fei Huang, Cong Yao, Zhibo Yang.)
+[//]: # (- Conditional text image generation with diffusion models. CVPR 2023 [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Conditional_Text_Image_Generation_With_Diffusion_Models_CVPR_2023_paper.pdf) <span style="color:PaleVioletRed;">Yuanzhi Zhu</span>, Zhaohai Li, Tianwei Wang, Mengchao He, Cong Yao.)
 - Qwen3 Technical Report. **arXiv 2025**. [[pdf]](https://arxiv.org/abs/2505.09388) An Yang, Anfeng Li, Baosong Yang, Beichen Zhang, Binyuan Hui et al. [Contributors]
 - Qwen2.5-Omni Technical Report. **arXiv 2025**. [[pdf]](https://arxiv.org/abs/2503.20215) Jin Xu, Zhifang Guo, Jinzheng He, Hangrui Hu, Ting He, Shuai Bai et al. [Contributors]
-- Implicit Feature Alignment: Learn to Convert Text Recognizer to Text Spotter. **CVPR 2021**. [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Implicit_Feature_Alignment_Learn_To_Convert_Text_Recognizer_to_Text_CVPR_2021_paper.pdf) Tianwei Wang, <span style="color:PaleVioletRed;">Yuanzhi Zhu</span>, Lianwen Jin, Dezhi Peng, Zhe Li, Mengchao He, Yongpan Wang, Canjie Luo.
-- Hiercode: A Lightweight Hierarchical Codebook for Zero-Shot Chinese Text Recognition. **PR 2025**. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0031320324007143) Yuyi Zhang, <span style="color:PaleVioletRed;">Yuanzhi Zhu</span>, Dezhi Peng, Peirong Zhang, Zhenhua Yang, Zhibo Yang, Cong Yao, Lianwen Jin.
+- Implicit Feature Alignment: Learn to Convert Text Recognizer to Text Spotter. **CVPR 2021**. [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Implicit_Feature_Alignment_Learn_To_Convert_Text_Recognizer_to_Text_CVPR_2021_paper.pdf) Tianwei$^{\*}$ Wang, <span style="color:PaleVioletRed;">Yuanzhi Zhu$^{\*}$</span>, Lianwen Jin, Dezhi Peng, Zhe Li, Mengchao He, Yongpan Wang, Canjie Luo.
+- Hiercode: A Lightweight Hierarchical Codebook for Zero-Shot Chinese Text Recognition. **PR 2025**. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0031320324007143) Yuyi Zhang$^{\*}$, <span style="color:PaleVioletRed;">Yuanzhi Zhu$^{\*}$</span>, Dezhi Peng, Peirong Zhang, Zhenhua Yang, Zhibo Yang, Cong Yao, Lianwen Jin.
 - SceneVTG++: Controllable Multilingual Visual Text Generation in the Wild. **arXiv 2025**. [[pdf]](https://arxiv.org/pdf/2501.02962) Jiawei Liu, <span style="color:PaleVioletRed;">Yuanzhi Zhu</span>, Feiyu Gao, Zhibo Yang, Peng Wang, Junyang Lin, Xinggang Wang, Wenyu Liu.
 - SLOGAN: Handwriting Style Synthesis for Arbitrary-Length and Out-of-Vocabulary Text. **IEEE TNNLS 2022**. [[pdf]](https://ieeexplore.ieee.org/abstract/document/9722567/) Canjie Luo, <span style="color:PaleVioletRed;">Yuanzhi Zhu</span>, Lianwen Jin, Zhe Li, Dezhi Peng. 
 - Learn to Augment: Joint Data Augmentation and Network Optimization for Text Recognition. **CVPR 2020**. [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Luo_Learn_to_Augment_Joint_Data_Augmentation_and_Network_Optimization_for_CVPR_2020_paper.pdf) Canjie Luo, <span style="color:PaleVioletRed;">Yuanzhi Zhu</span>, Lianwen Jin, Yongpan Wang.
@@ -80,25 +79,12 @@ Shuai Bai, Keqin Chen, Xuejing Liu, Jialin Wang, Wenbin Ge, Sibo Song, Kai Dang,
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.08* First place in three tasks of ICDAR 2019 Historical Document Reading Challenge on Large Structured Chinese Family Records. 
+- *2019.05* First Place (1/1071) in the Ancient Text Recognition Task at Digital China Innovation Challenge, and awarded the Best Algorithm Award.
+- *2019.10* National Scholarship.
+- *2016.10* National Endeavor Scholarship.
+- *2015.10* National Endeavor Scholarship.
 
 # 📖 Educations
-- *2018.09 - 2021.06 (now)*, Master of Engineering, South China University of Technology.
-  Computer Vision, Optical Character Recognition
-  - Winner of four domestic and international competitions in the field.
-  - Published 6 papers in top-tier conferences and journals.
-  - National Scholarship.
-    
-- *2014.09 - 2018.06*, Bachelor of Engineering, South China University of Technology.
-  Information Engineering (Elite Program)
-  - Received National Endeavor Scholarship for two years.
-  - Recommended for postgraduate admission without an entrance exam.
-
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2018.09 - 2021.06*, Master of Engineering, South China University of Technology. Computer Vision, Optical Character Recognition.
+- *2014.09 - 2018.06*, Bachelor of Engineering, South China University of Technology. Information Engineering (Elite Program).
