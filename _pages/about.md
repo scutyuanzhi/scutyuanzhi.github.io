@@ -32,7 +32,7 @@ I am a researcher specializing in Vision-Language Models (VLM) and Large Languag
 Shuai Bai, Keqin Chen, Xuejing Liu, Jialin Wang, Wenbin Ge, Sibo Song, Kai Dang, Peng Wang, Shijie Wang, Jun Tang, Humen Zhong, <span style="color:PaleVioletRed;">Yuanzhi Zhu</span>, Mingkun Yang, Zhaohai Li, Jianqiang Wan, Pengfei Wang, Wei Ding, Zheren Fu, Yiheng Xu, Jiabo Ye, Xi Zhang, Tianbao Xie, Zesen Cheng, Hang Zhang, Zhibo Yang, Haiyang Xu, Junyang Lin.
 
 [PDF](https://arxiv.org/abs/2502.13923) [Code](https://github.com/QwenLM/Qwen2.5-VL/) [Slides](https://www.bilibili.com/video/BV1fXRwY2EtX) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- One of the World’s Most Advanced Vision-Language (VL) Large Models. 
+- One of the World’s Most Advanced Vision-Language Large Models. 
 </div>
 </div>
 
