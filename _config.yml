@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yuanzhi Zhu"
-  avatar           : "images/yuanzhi_profile.png"
+  avatar           : "images/yuanzhi_profile-512x512.png"
   bio              : "VLM and LLM researcher"
   location         : "Hangzhou, China"
   employer         : "Alibaba Tongyi Lab"
