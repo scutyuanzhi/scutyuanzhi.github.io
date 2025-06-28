@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a VLM and LLM researcher, a senior algorithm engineer at Alibaba Tongyi Lab (formerly Alibaba Damo Academy), and a core team member of Qwen2.5-VL, Qwen2.5-Omni, Qwen3, etc. I received my bachelor's and master's degrees from South China University of Technology, and I am engaged in CV and OCR research. After graduation, I joined Alibaba to conduct research in OCR, T2I, VLM, LLM, etc., which promoted the development of OCR expert models and the era of large models, and achieved technological breakthroughs many times. I have both model implementation experience and algorithm development experience. After absorbing it, I published more than ten papers (four papers as the first author) in top journals such as CVPR, ECCV, and AAAI, and the number of Google Scholar citations was 3000+.
+I am a senior algorithm engineer at Alibaba Tongyi Lab (formerly Alibaba Damo Academy), and a team member of Qwen2.5-VL, Qwen2.5-Omni, Qwen3, etc. I received my bachelor's and master's degrees from South China University of Technology, and I was engaged in CV and OCR research. After graduation, I joined Alibaba to conduct research in OCR, T2I, VLM, LLM, etc., which promoted the development of OCR expert models and the era of large models, and achieved technological breakthroughs many times. I have both model implementation experience and algorithm development experience. After absorbing it, I published more than ten papers (four papers as the first author) in top journals such as CVPR, ECCV, and AAAI, and the number of Google Scholar citations was 3000+.
 
 
 
@@ -43,7 +43,7 @@ Shuai Bai, Keqin Chen, Xuejing Liu, Jialin Wang, Wenbin Ge, Sibo Song, Kai Dang,
 
 <span style="color:PaleVioletRed;">Yuanzhi Zhu</span>, Jiawei Liu, Feiyu Gao, Wenyu Liu, Xinggang Wang, Peng Wang, Fei Huang, Cong Yao, Zhibo Yang.
 
-[PDF](https://arxiv.org/abs/2501.02962) [Code]() [Slides]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[PDF](https://arxiv.org/abs/2501.02962) [Code]() [Slides](https://www.youtube.com/watch?v=fZXotgUxm8w) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - TD.
 </div>
 </div>
@@ -55,7 +55,7 @@ Shuai Bai, Keqin Chen, Xuejing Liu, Jialin Wang, Wenbin Ge, Sibo Song, Kai Dang,
 
 <span style="color:PaleVioletRed;">Yuanzhi Zhu</span>, Zhaohai Li, Tianwei Wang, Mengchao He, Cong Yao.
 
-[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Conditional_Text_Image_Generation_With_Diffusion_Models_CVPR_2023_paper.pdf) [Slides]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Conditional_Text_Image_Generation_With_Diffusion_Models_CVPR_2023_paper.pdf) [Slides](https://www.youtube.com/watch?v=G09Hf7on4oc) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - TD.
 </div>
 </div>
