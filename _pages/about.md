@@ -24,36 +24,60 @@ I am a VLM and LLM researcher, a senior algorithm engineer at Alibaba Tongyi Lab
 # 📝 Selected Publications
 
 
-# More Papers
-- Qwen2. 5-vl technical report. 2025. [[pdf]](https://arxiv.org/abs/2502.13923) Shuai Bai, Keqin Chen, Xuejing Liu, Jialin Wang, Wenbin Ge, Sibo Song, Kai Dang, Peng Wang, Shijie Wang, Jun Tang, Humen Zhong, **Yuanzhi Zhu**, Mingkun Yang, Zhaohai Li, Jianqiang Wan, Pengfei Wang, Wei Ding, Zheren Fu, Yiheng Xu, Jiabo Ye, Xi Zhang, Tianbao Xie, Zesen Cheng, Hang Zhang, Zhibo Yang, Haiyang Xu, Junyang Lin.
-- Qwen3 technical report. 2025. [[pdf]](https://arxiv.org/abs/2505.09388) An Yang, Anfeng Li, Baosong Yang, Beichen Zhang, Binyuan Hui et al. [Contributors]
-- Qwen2. 5-omni technical report. 2025. [pdf](https://arxiv.org/abs/2503.20215) Jin Xu, Zhifang Guo, Jinzheng He, Hangrui Hu, Ting He, Shuai Bai et al. [Contributors]
-- Visual text generation in the wild. ECCV 2024. [[pdf]] **Yuanzhi Zhu**, Jiawei Liu, Feiyu Gao, Wenyu Liu, Xinggang Wang, Peng Wang, Fei Huang, Cong Yao, Zhibo Yang
-- Conditional text image generation with diffusion models. <span style="color:PaleVioletRed;">CVPR 2023</span>. [[pdf]] **Yuanzhi Zhu**, Zhaohai Li, Tianwei Wang, Mengchao He, Cong Yao
-- Hiercode: A lightweight hierarchical codebook for zero-shot chinese text recognition. Pattern Recognition 2025. [pdf] Yuyi Zhang, **Yuanzhi Zhu**, Dezhi Peng, Peirong Zhang, Zhenhua Yang, Zhibo Yang, Cong Yao, Lianwen Jin
-- Implicit feature alignment: learn to convert text recognizer to text spotter. CVPR 2021. [pdf] Tianwei Wang, **Yuanzhi Zhu**, Lianwen Jin, Dezhi Peng, Zhe Li, Mengchao He, Yongpan Wang, Canjie Luo
-- SLOGAN: handwriting style synthesis for arbitrary-length and out-of-vocabulary text. IEEE transactions on neural networks and learning systems 2022. [pdf] Canjie Luo, **Yuanzhi Zhu**, Lianwen Jin, Zhe Li, Dezhi Peng
-- Learn to augment: Joint data augmentation and network optimization for text recognition. CVPR 2020. [pdf] Canjie Luo, **Yuanzhi Zhu**, Lianwen Jin, Yongpan Wang
-- Decoupled attention network for text recognition. AAAI 2020. [pdf] Tianwei Wang, **Yuanzhi Zhu**, Lianwen Jin, Canjie Luo, Xiaoxue Chen, Yaqiang Wu, Qianying Wang, Mingxiang Cai.
-- Text recognition in the wild: A survey. ACM Computing Surveys (CSUR) 2021. [pdf] Xiaoxue Chen, Lianwen Jin, **Yuanzhi Zhu**, Canjie Luo, Tianwei Wang
-- Aggregation cross-entropy for sequence recognition. CVPR 2019. [pdf] Zecheng Xie, Yaoxiong Huang, **Yuanzhi Zhu**, Lianwen Jin, Yuliang Liu, Lele Xie
-- SceneVTG++: Controllable Multilingual Visual Text Generation in the Wild. 2025. [pdf] Jiawei Liu, **Yuanzhi Zhu**, Feiyu Gao, Zhibo Yang, Peng Wang, Junyang Lin, Xinggang Wang, Wenyu Liu
-
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/Qwen2.5-VL-framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Qwen2.5-VL Technical Report](https://arxiv.org/abs/2502.13923)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Shuai Bai, Keqin Chen, Xuejing Liu, Jialin Wang, Wenbin Ge, Sibo Song, Kai Dang, Peng Wang, Shijie Wang, Jun Tang, Humen Zhong, <span style="color:PaleVioletRed;">Yuanzhi Zhu</span>, Mingkun Yang, Zhaohai Li, Jianqiang Wan, Pengfei Wang, Wei Ding, Zheren Fu, Yiheng Xu, Jiabo Ye, Xi Zhang, Tianbao Xie, Zesen Cheng, Hang Zhang, Zhibo Yang, Haiyang Xu, Junyang Lin.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[PDF](https://arxiv.org/abs/2502.13923) [Code]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- TD.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/SceneVTG-poster.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Visual Text Generation in the Wild](https://arxiv.org/abs/2501.02962)
+
+<span style="color:PaleVioletRed;">Yuanzhi Zhu</span>, Jiawei Liu, Feiyu Gao, Wenyu Liu, Xinggang Wang, Peng Wang, Fei Huang, Cong Yao, Zhibo Yang.
+
+[PDF](https://arxiv.org/abs/2501.02962) [Code]() [Slides]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- TD.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/CTIG-poster.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Conditional Text Image Generation with Diffusion Models](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Conditional_Text_Image_Generation_With_Diffusion_Models_CVPR_2023_paper.pdf)
+
+<span style="color:PaleVioletRed;">Yuanzhi Zhu</span>, Zhaohai Li, Tianwei Wang, Mengchao He, Cong Yao.
+
+[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Conditional_Text_Image_Generation_With_Diffusion_Models_CVPR_2023_paper.pdf) [Code]() [Slides]() <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- TD.
+</div>
+</div>
+
+
+# More Papers
+
+[//] (- Qwen2. 5-vl technical report. 2025. [[pdf]](https://arxiv.org/abs/2502.13923) Shuai Bai, Keqin Chen, Xuejing Liu, Jialin Wang, Wenbin Ge, Sibo Song, Kai Dang, Peng Wang, Shijie Wang, Jun Tang, Humen Zhong, <span style="color:PaleVioletRed;">Yuanzhi Zhu</span>, Mingkun Yang, Zhaohai Li, Jianqiang Wan, Pengfei Wang, Wei Ding, Zheren Fu, Yiheng Xu, Jiabo Ye, Xi Zhang, Tianbao Xie, Zesen Cheng, Hang Zhang, Zhibo Yang, Haiyang Xu, Junyang Lin.)
+[//] (- Visual text generation in the wild. ECCV 2024. [[pdf]](https://arxiv.org/abs/2501.02962) <span style="color:PaleVioletRed;">Yuanzhi Zhu</span>, Jiawei Liu, Feiyu Gao, Wenyu Liu, Xinggang Wang, Peng Wang, Fei Huang, Cong Yao, Zhibo Yang.)
+[//] (- Conditional text image generation with diffusion models. CVPR 2023 [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Conditional_Text_Image_Generation_With_Diffusion_Models_CVPR_2023_paper.pdf) <span style="color:PaleVioletRed;">Yuanzhi Zhu</span>, Zhaohai Li, Tianwei Wang, Mengchao He, Cong Yao.)
+- Qwen3 Technical Report. **arXiv 2025**. [[pdf]](https://arxiv.org/abs/2505.09388) An Yang, Anfeng Li, Baosong Yang, Beichen Zhang, Binyuan Hui et al. [Contributors]
+- Qwen2.5-Omni Technical Report. **arXiv 2025**. [[pdf]](https://arxiv.org/abs/2503.20215) Jin Xu, Zhifang Guo, Jinzheng He, Hangrui Hu, Ting He, Shuai Bai et al. [Contributors]
+- Implicit Feature Alignment: Learn to Convert Text Recognizer to Text Spotter. **CVPR 2021**. [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Implicit_Feature_Alignment_Learn_To_Convert_Text_Recognizer_to_Text_CVPR_2021_paper.pdf) Tianwei Wang, <span style="color:PaleVioletRed;">Yuanzhi Zhu</span>, Lianwen Jin, Dezhi Peng, Zhe Li, Mengchao He, Yongpan Wang, Canjie Luo.
+- Hiercode: A Lightweight Hierarchical Codebook for Zero-Shot Chinese Text Recognition. **PR 2025**. [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0031320324007143) Yuyi Zhang, <span style="color:PaleVioletRed;">Yuanzhi Zhu</span>, Dezhi Peng, Peirong Zhang, Zhenhua Yang, Zhibo Yang, Cong Yao, Lianwen Jin.
+- SceneVTG++: Controllable Multilingual Visual Text Generation in the Wild. **arXiv 2025**. [[pdf]](https://arxiv.org/pdf/2501.02962) Jiawei Liu, <span style="color:PaleVioletRed;">Yuanzhi Zhu</span>, Feiyu Gao, Zhibo Yang, Peng Wang, Junyang Lin, Xinggang Wang, Wenyu Liu.
+- SLOGAN: Handwriting Style Synthesis for Arbitrary-Length and Out-of-Vocabulary Text. **IEEE TNNLS 2022**. [[pdf]](https://ieeexplore.ieee.org/abstract/document/9722567/) Canjie Luo, <span style="color:PaleVioletRed;">Yuanzhi Zhu</span>, Lianwen Jin, Zhe Li, Dezhi Peng. 
+- Learn to Augment: Joint Data Augmentation and Network Optimization for Text Recognition. **CVPR 2020**. [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Luo_Learn_to_Augment_Joint_Data_Augmentation_and_Network_Optimization_for_CVPR_2020_paper.pdf) Canjie Luo, <span style="color:PaleVioletRed;">Yuanzhi Zhu</span>, Lianwen Jin, Yongpan Wang.
+- Decoupled Attention Network for Text Recognition. **AAAI 2020**. [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/6903) Tianwei Wang, <span style="color:PaleVioletRed;">Yuanzhi Zhu</span>, Lianwen Jin, Canjie Luo, Xiaoxue Chen, Yaqiang Wu, Qianying Wang, Mingxiang Cai.
+- Text Recognition in the Wild: A Survey. **ACM CSUR 2021**. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3440756) Xiaoxue Chen, Lianwen Jin, <span style="color:PaleVioletRed;">Yuanzhi Zhu</span>, Canjie Luo, Tianwei Wang.
+- Aggregation Cross-Entropy for Sequence Recognition. **CVPR 2019**. [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xie_Aggregation_Cross-Entropy_for_Sequence_Recognition_CVPR_2019_paper.pdf) Zecheng Xie, Yaoxiong Huang, <span style="color:PaleVioletRed;">Yuanzhi Zhu</span>, Lianwen Jin, Yuliang Liu, Lele Xie.
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
