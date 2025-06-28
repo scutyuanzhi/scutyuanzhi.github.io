@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Yuanzhi Zhu - Homepage"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -17,14 +17,27 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a VLM and LLM researcher, a senior algorithm engineer at Alibaba Tongyi Lab (formerly Alibaba Damo Academy), and a core team member of Qwen2.5-VL, Qwen2.5-Omni, Qwen3, etc. I received my bachelor's and master's degrees from South China University of Technology, and I am engaged in CV and OCR research. After graduation, I joined Alibaba to conduct research in OCR, T2I, VLM, LLM, etc., which promoted the development of OCR expert models and the era of large models, and achieved technological breakthroughs many times. I have both model implementation experience and algorithm development experience. After absorbing it, I published more than ten papers (four papers as the first author) in top journals such as CVPR, ECCV, and AAAI, and the number of Google Scholar citations was 3000+.
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+# 📝 Selected Publications
+
+
+# More Papers
+- Qwen2. 5-vl technical report. 2025. [[pdf]](https://arxiv.org/abs/2502.13923) Shuai Bai, Keqin Chen, Xuejing Liu, Jialin Wang, Wenbin Ge, Sibo Song, Kai Dang, Peng Wang, Shijie Wang, Jun Tang, Humen Zhong, **Yuanzhi Zhu**, Mingkun Yang, Zhaohai Li, Jianqiang Wan, Pengfei Wang, Wei Ding, Zheren Fu, Yiheng Xu, Jiabo Ye, Xi Zhang, Tianbao Xie, Zesen Cheng, Hang Zhang, Zhibo Yang, Haiyang Xu, Junyang Lin.
+- Qwen3 technical report. 2025. [[pdf]](https://arxiv.org/abs/2505.09388) An Yang, Anfeng Li, Baosong Yang, Beichen Zhang, Binyuan Hui et al. [Contributors]
+- Qwen2. 5-omni technical report. 2025. [pdf](https://arxiv.org/abs/2503.20215) Jin Xu, Zhifang Guo, Jinzheng He, Hangrui Hu, Ting He, Shuai Bai et al. [Contributors]
+- Visual text generation in the wild. ECCV 2024. [[pdf]] **Yuanzhi Zhu**, Jiawei Liu, Feiyu Gao, Wenyu Liu, Xinggang Wang, Peng Wang, Fei Huang, Cong Yao, Zhibo Yang
+- Conditional text image generation with diffusion models. <span style="color:PaleVioletRed;">CVPR 2023</span>. [[pdf]] **Yuanzhi Zhu**, Zhaohai Li, Tianwei Wang, Mengchao He, Cong Yao
+- Hiercode: A lightweight hierarchical codebook for zero-shot chinese text recognition. Pattern Recognition 2025. [pdf] Yuyi Zhang, **Yuanzhi Zhu**, Dezhi Peng, Peirong Zhang, Zhenhua Yang, Zhibo Yang, Cong Yao, Lianwen Jin
+- Implicit feature alignment: learn to convert text recognizer to text spotter. CVPR 2021. [pdf] Tianwei Wang, **Yuanzhi Zhu**, Lianwen Jin, Dezhi Peng, Zhe Li, Mengchao He, Yongpan Wang, Canjie Luo
+- SLOGAN: handwriting style synthesis for arbitrary-length and out-of-vocabulary text. IEEE transactions on neural networks and learning systems 2022. [pdf] Canjie Luo, **Yuanzhi Zhu**, Lianwen Jin, Zhe Li, Dezhi Peng
+- Learn to augment: Joint data augmentation and network optimization for text recognition. CVPR 2020. [pdf] Canjie Luo, **Yuanzhi Zhu**, Lianwen Jin, Yongpan Wang
+- Decoupled attention network for text recognition. AAAI 2020. [pdf] Tianwei Wang, **Yuanzhi Zhu**, Lianwen Jin, Canjie Luo, Xiaoxue Chen, Yaqiang Wu, Qianying Wang, Mingxiang Cai.
+- Text recognition in the wild: A survey. ACM Computing Surveys (CSUR) 2021. [pdf] Xiaoxue Chen, Lianwen Jin, **Yuanzhi Zhu**, Canjie Luo, Tianwei Wang
+- Aggregation cross-entropy for sequence recognition. CVPR 2019. [pdf] Zecheng Xie, Yaoxiong Huang, **Yuanzhi Zhu**, Lianwen Jin, Yuliang Liu, Lele Xie
+- SceneVTG++: Controllable Multilingual Visual Text Generation in the Wild. 2025. [pdf] Jiawei Liu, **Yuanzhi Zhu**, Feiyu Gao, Zhibo Yang, Peng Wang, Junyang Lin, Xinggang Wang, Wenyu Liu
 
 # 📝 Publications 
 
@@ -47,8 +60,17 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2018.09 - 2021.06 (now)*, Master of Engineering, South China University of Technology.
+  Computer Vision, Optical Character Recognition
+  - Winner of four domestic and international competitions in the field.
+  - Published 6 papers in top-tier conferences and journals.
+  - National Scholarship.
+    
+- *2014.09 - 2018.06*, Bachelor of Engineering, South China University of Technology.
+  Information Engineering (Elite Program)
+  - Received National Endeavor Scholarship for two years.
+  - Recommended for postgraduate admission without an entrance exam.
+
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
