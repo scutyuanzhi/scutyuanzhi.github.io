@@ -81,7 +81,7 @@ Shuai Bai, Keqin Chen, Xuejing Liu, Jialin Wang, Wenbin Ge, Sibo Song, Kai Dang,
 
 # 🎖 Honors and Awards
 - *2019.08* First place in three tasks of ICDAR 2019 Historical Document Reading Challenge on Large Structured Chinese Family Records. 
-- *2019.05* First Place (1/1071) in the Ancient Text Recognition Task at Digital China Innovation Challenge, and awarded the Best Algorithm Award.
+- *2019.05* First Place (1/1071) and the Best Algorithm Award in the Ancient Text Recognition Task at Digital China Innovation Competition.
 - *2019.10* National Scholarship.
 - *2016.10* National Endeavor Scholarship.
 - *2015.10* National Endeavor Scholarship.
