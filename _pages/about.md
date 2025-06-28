@@ -44,7 +44,7 @@ Shuai Bai, Keqin Chen, Xuejing Liu, Jialin Wang, Wenbin Ge, Sibo Song, Kai Dang,
 
 <span style="color:PaleVioletRed;">Yuanzhi Zhu</span>, Jiawei Liu, Feiyu Gao, Wenyu Liu, Xinggang Wang, Peng Wang, Fei Huang, Cong Yao, Zhibo Yang.
 
-[PDF](https://arxiv.org/abs/2501.02962) [Code](https://github.com/AlibabaResearch/AdvancedLiterateMachinery) [Slides](https://www.youtube.com/watch?v=fZXotgUxm8w) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[PDF](https://arxiv.org/abs/2501.02962) [Code](https://github.com/AlibabaResearch/AdvancedLiterateMachinery/tree/main/AIGC/SceneVTG) [Slides](https://www.youtube.com/watch?v=fZXotgUxm8w) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This work focuses on generating realistic visual text images in real-world scenes by leveraging LLMs and conditional diffusion models. 
 </div>
 </div>
@@ -56,7 +56,7 @@ Shuai Bai, Keqin Chen, Xuejing Liu, Jialin Wang, Wenbin Ge, Sibo Song, Kai Dang,
 
 <span style="color:PaleVioletRed;">Yuanzhi Zhu</span>, Zhaohai Li, Tianwei Wang, Mengchao He, Cong Yao.
 
-[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Conditional_Text_Image_Generation_With_Diffusion_Models_CVPR_2023_paper.pdf) [Slides](https://www.youtube.com/watch?v=G09Hf7on4oc) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_Conditional_Text_Image_Generation_With_Diffusion_Models_CVPR_2023_paper.pdf) [Code](https://github.com/AlibabaResearch/AdvancedLiterateMachinery/tree/main/AIGC/SceneVTG/LVTR) [Slides](https://www.youtube.com/watch?v=G09Hf7on4oc) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - The first work to propose controllable text-line image generation for multi-scenario applications. 
 </div>
 </div>
