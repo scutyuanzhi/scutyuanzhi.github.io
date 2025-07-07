@@ -23,7 +23,7 @@ I am a researcher specializing in Vision-Language Models (VLM) and Large Languag
 
 I received both my bachelor’s and master’s degrees from South China University of Technology, where I focused on Computer Vision (CV) and Optical Character Recognition (OCR) research under the [Prof. Lianwen Jin](http://www.dlvc-lab.net/). After graduation, I joined Alibaba, where I have conducted research in OCR, text-to-image generation (T2I), VLMs, and LLMs. My work has contributed to the advancement of OCR expert models and the large model era, with multiple technological breakthroughs achieved. 
 
-Combining strong hands-on implementation skills with deep algorithm development expertise, I have co-authored over ten publications in top-tier conferences and journals such as CVPR, ECCV, and AAAI, including four as the first author. My work has accumulated over 3,000 citations on Google Scholar. 
+Combining strong hands-on implementation skills with deep algorithm development expertise, I have co-authored over ten publications in top-tier conferences and journals such as CVPR, ECCV, and AAAI, including four as the first author. My work has accumulated over 4,000 citations on Google Scholar. 
 
 
 # 📚 Selected Publications
